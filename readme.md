@@ -8,5 +8,5 @@ Local: Mysql
 Produccción: Postgres
 Saas: Heroku
 
-Link App: https://app-laravel-angular.herokuapp.com/
+Link App: http://boiling-ridge-08433.herokuapp.com/
 
